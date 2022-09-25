@@ -2,8 +2,7 @@ package MODEL;
 
 public class Gato() {
 
-
-    /*private string nome;
+    private string nome;
     private string cor;
     private integer idade;
 
@@ -36,5 +35,5 @@ public class Gato() {
 
     public Gato() {
     }
-    */
+
 }
